@@ -17,11 +17,3 @@
 </p>
 
 ---
-
-<!-- 📊 GitHub Stats -->
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=anishkax&theme=react&border_radius=10" />
-</div>
-
