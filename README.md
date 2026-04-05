@@ -3,13 +3,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div> -->
 <h2 align="center">Leetcode Info<h2>    
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anishkax?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
----
-
-<!-- 💻 LeetCode -->
-<h2 align="center">💻 LeetCode</h2>
-
+  
 <p align="center">
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
     <img src="https://leetcard.jacoblin.cool/anishkax?theme=dark&font=Nunito&ext=heatmap" />
