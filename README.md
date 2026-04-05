@@ -23,9 +23,5 @@
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com?user=anishkax&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=anishkax&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
 </div>
 
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkax&layout=compact&theme=react&border_radius=10" />
-</div>
