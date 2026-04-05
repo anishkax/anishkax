@@ -1,9 +1,10 @@
-<!-- 🐍 Contribution Snake -->
-<h2 align="center">🐍 Contributions 🐍</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anishkax/anishkax/output/github-contribution-grid-snake.svg" />
-</p>
 
+<!--   <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> -->
+<h2 align="center">Leetcode Info<h2>    
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/anishkax?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 ---
 
 <!-- 💻 LeetCode -->
