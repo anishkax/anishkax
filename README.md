@@ -1,19 +1,10 @@
-
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
-<h2 align="center">Leetcode Info<h2>    
+<samp>
   
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/anishkax?theme=dark&font=Nunito&ext=heatmap" />
-  </a>
-</p>
+- 👋 Hi, I'm Anishka
+- 💻 Computer Science student exploring software engineering
+- 🤖 Currently diving into AI and learning SAP after hours!
+- 🌱 Always learning, experimenting, and building things that spark my curiosity
+- 🌐 Looking to collaborate on exciting projects
+- ⚡ Fun fact: I love problem-solving and am always ready to adapt to new technologies! 
 
-<!-- Optional badges -->
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="140"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="140"/>
-</p>
-
----
+</samp>
