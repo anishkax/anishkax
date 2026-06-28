@@ -8,3 +8,6 @@
 - ⚡ Fun fact: I love problem-solving and am always ready to adapt to new technologies! 
 
 </samp>
+
+<img align="center" alt="Coding" width="650" src="mario-working.gif">
+<div style="margin-bottom: 10px;"></div>
